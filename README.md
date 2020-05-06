@@ -45,7 +45,7 @@ You can answer you questions using:
 
 = Contribute =
 
-You can contribute to the source code in our [GitHub](https://github.com/axisthemes/woocommerce-esewa/) page.
+You can contribute to the source code in our [GitHub](https://github.com/phyverse/wp_esewa/) page.
 
 == Installation ==
 
